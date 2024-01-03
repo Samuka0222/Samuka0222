@@ -9,6 +9,7 @@ I'm relatively new to programming, having started my journey in web development 
 - [x] Develop simple RESTful APIs with Node.js
 - [x] Begin learning Typescript
 - [ ] Dive into React + Typescript
+- [ ] Begin learning Next.JS
 - [ ] Experiment with creating 3D projects using three.js
 - [ ] Sharpen my focus on back-end development
 
