@@ -8,7 +8,9 @@ I'm relatively new to programming, having started my journey in web development 
 - [x] Build React apps with confidence
 - [x] Develop simple RESTful APIs with Node.js
 - [x] Begin learning Typescript
-- [ ] Dive into React + Typescript
+- [x] Dive into React + Typescript
+- [x] Begin learning React Native
+- [ ] Master React Native
 - [ ] Begin learning Next.JS
 - [ ] Experiment with creating 3D projects using three.js
 - [ ] Sharpen my focus on back-end development
