@@ -11,10 +11,12 @@ I'm relatively new to programming, having started my journey in web development 
 - [x] Dive into React + Typescript
 - [x] Begin learning Next.JS
 - [x] Begin learning React Native
+- [x] Sharpen my focus on back-end development
 - [ ] Master Next.JS
 - [ ] Master React Native
+- [ ] Begin learning Angular.js
+- [ ] Begin learning Vue.js
 - [ ] Experiment with creating 3D projects using three.js
-- [ ] Sharpen my focus on back-end development
 
 Feel free to explore my projects and join me on this exciting coding journey! 🚀 <br>
 
