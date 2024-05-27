@@ -1,9 +1,5 @@
 ## Hi there! I'm **Samuel**! Welcome to my profile! 😁
 
-<div>
- <a href="https://app.daily.dev/samuka0222"><img src="https://api.daily.dev/devcards/v2/mkis63L5YlYdwrgpwQd5I.png?type=default&r=6zu" width="356" alt="Samuel Machado's Dev Card"/></a>
-</div>
-
 ### About Me:
 I'm relatively new to programming, having started my journey in web development since April 2023. However, I don't consider myself a novice anymore because I've been working diligently ever since. Currently focused on mastering React.js (recently started delving into Typescript) and gaining a solid understanding of back-end development with Node.js. I enjoy taking on various challenges, such as creating 3D websites with three.js, and I'm always striving to push my creative boundaries with different projects!
 
