@@ -12,7 +12,10 @@ I'm relatively new to programming, having started my journey in web development 
 - [x] Begin learning Next.JS
 - [x] Begin learning React Native
 - [x] Sharpen my focus on back-end development
-- [ ] Master Next.JS
+- [x] Master Next.JS
+- [x] Master Express
+- [ ] Master Nest.js
+- [ ] Master Fastify
 - [ ] Master React Native
 - [ ] Begin learning Angular.js
 - [ ] Begin learning Vue.js
@@ -42,6 +45,7 @@ Feel free to explore my projects and join me on this exciting coding journey! ðŸ
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
 </div>
  
