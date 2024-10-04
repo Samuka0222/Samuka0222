@@ -1,7 +1,7 @@
 ## Hi there! I'm **Samuel**! Welcome to my profile! 😁
 
 ### About Me:
-I'm relatively new to programming, having started my journey in web development since April 2023. However, I don't consider myself a novice anymore because I've been working diligently ever since. Currently focused on mastering React.js (recently started delving into Typescript) and gaining a solid understanding of back-end development with Node.js. I enjoy taking on various challenges, such as creating 3D websites with three.js, and I'm always striving to push my creative boundaries with different projects!
+Junior Fullstack Web Developer focused on Javascript, React and AWS, seeking his first job as a developer. Proactive, dynamic, responsible, quick learner, always ready to take on new challenges, aiming to gain experience, might have some crazy/complex ideas, but I will make them happen!
 
 ### My Current Goals:
 - [x] Learn Vanilla web development
@@ -14,6 +14,7 @@ I'm relatively new to programming, having started my journey in web development 
 - [x] Sharpen my focus on back-end development
 - [x] Master Next.JS
 - [x] Master Express
+- [x] Master Serverless API
 - [ ] Master Nest.js
 - [ ] Master Fastify
 - [ ] Master React Native
